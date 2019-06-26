@@ -6,3 +6,8 @@ layout: home
 ---
 - [L1 vs L2 Norms/Regularization](https://www.kaggle.com/residentmario/l1-norms-versus-l2-norms)
 - [L1 vs L2 Norms/Regularization](http://www.chioka.in/differences-between-the-l1-norm-and-the-l2-norm-least-absolute-deviations-and-least-squares/)
+
+-----
+
+
+- [CS229](http://www.chioka.in/differences-between-the-l1-norm-and-the-l2-norm-least-absolute-deviations-and-least-squares/)
