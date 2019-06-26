@@ -10,4 +10,4 @@ layout: home
 -----
 
 
-- [CS229](http://www.chioka.in/differences-between-the-l1-norm-and-the-l2-norm-least-absolute-deviations-and-least-squares/)
+- [CS229](/cs229)
