@@ -9,5 +9,8 @@ layout: home
 
 -----
 
-
+{% if site.url == 'http://localhost:4000' %}
 - [CS229](/cs229)
+{% else %}
+- [CS229](https://github.com/superfsm/superfsm.github.io/tree/master/cs229)
+{% endif %}
